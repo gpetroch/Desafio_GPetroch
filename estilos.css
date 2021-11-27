@@ -18,9 +18,13 @@ h1{
   font-weight: 800;
   font-family: 'DM Serif Text', serif;
   max-width: 550px;
-  font-size: 50px;
+  font-size: 60px;
   line-height: 55px;
 
+}
+
+.textIndex{
+  margin-top: 30px;
 }
 
 .nav-link{
